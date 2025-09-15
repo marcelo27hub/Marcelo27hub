@@ -35,13 +35,6 @@
 
 ---
 
-## 🚀 Proyectos Destacados
-- 📌 [Proyecto 1](#) – breve descripción  
-- 📌 [Proyecto 2](#) – breve descripción  
-- 📌 [Proyecto 3](#) – breve descripción  
-
----
-
 ## 📊 Estadísticas
 ![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelo27hub&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo27hub&layout=compact&theme=radical)  
