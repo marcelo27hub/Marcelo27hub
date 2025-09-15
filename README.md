@@ -1,6 +1,7 @@
 <!-- Banner personalizado -->
 ![Header](https://raw.githubusercontent.com/Marcelo27hub/Marcelo27hub/main/assets/banner_output.png)
 
+
 # 👋 ¡Hola! Soy Marcelo Valdez  
 
 🎓 Estudiante de **Ingeniería en Informática** en la **Politécnica – UNA (Paraguay)**  
