@@ -1,5 +1,5 @@
 <!-- Banner personalizado -->
-![Header](https://raw.githubusercontent.com/Marcelo27hub/Marcelo27hub/main/assets/banner_output.png)
+![Header](https://github.com/marcelo27hub/Marcelo27hub/blob/main/banner_output.png?raw=true)
 
 
 # 👋 ¡Hola! Soy Marcelo Valdez  
